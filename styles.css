@@ -1,0 +1,12 @@
+body{
+background-color: rgb(110, 58, 58);
+}
+/* Nav bar */
+.navbar{
+    background-color: rgba(8, 0, 0, 0.388);
+    }
+
+.navbar-brand {
+    letter-spacing: 6px;
+    font-size: 20px;
+}
