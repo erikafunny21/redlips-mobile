@@ -1,5 +1,5 @@
 .hero-image {
-    background-image: url(./jpg/louis-hansel-yLUvnCFI500-unsplash.jpg);
+    background-image: url(./jpg/patrick-tomasso-GXXYkSwndP4-unsplash.jpg);
     background-color: #cccccc;
     height: 500px;
     background-position: center;
@@ -28,4 +28,15 @@
     color: #e8e8e8;
     text-decoration: none;
     font-weight: initial;
+}
+.contact-img {
+background-image: url(./jpg/louis-hansel-yLUvnCFI500-unsplash.jpg);
+background-color: #cccccc;
+height: 500px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+width: 100%;
+
 }
