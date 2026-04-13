@@ -29,7 +29,6 @@
     background-color: rgba(95, 80, 80, 0.781);
     border: 3px solid rgba(95, 80, 80, 0.781);
     padding: 5px;
-    margin: 5px;
   }
   a {
     color: #e8e8e8;
@@ -50,8 +49,14 @@ width: 100%;
 
 .event-col-gray {
   background-color: rgba(129, 127, 127, 0.589);
+  padding: 16px;
 }
 
 .event-col-red {
   background-color: rgba(173, 69, 69, 0.589);
+  padding: 16px;
+}
+
+.form-container {
+  padding-top: 55px;
 }
