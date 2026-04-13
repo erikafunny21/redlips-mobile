@@ -40,3 +40,11 @@ position: relative;
 width: 100%;
 
 }
+
+.event-col-gray {
+  background-color: rgba(129, 127, 127, 0.589);
+}
+
+.event-col-red {
+  background-color: rgba(173, 69, 69, 0.589);
+}
